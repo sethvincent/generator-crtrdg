@@ -38,6 +38,7 @@ CrtrdgGenerator.prototype.app = function app() {
   this.template('_package.json', 'package.json');
   this.template('_game.js', 'game.js');
   this.template('_index.html', 'index.html');
+  this.template('_readme.md', 'readme.md');
   this.copy('_style.css', 'style.css');
 };
 
