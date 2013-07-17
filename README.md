@@ -1,7 +1,6 @@
 # Generator-crtrdg
-[![Build Status](https://secure.travis-ci.org/sethvincent/generator-crtrdg.png?branch=master)](https://travis-ci.org/sethvincent/generator-crtrdg)
 
-A generator for Yeoman.
+> A generator for creating crtrdg.js games.
 
 ## Getting started
 - Make sure you have [yo](https://github.com/yeoman/yo) installed:
