@@ -10,6 +10,7 @@ var game = new Game({
 });
 
 var keyboard = new Keyboard(game);
+var mouse = new Mouse(game);
 
 game.on('update', function(interval){});
 
