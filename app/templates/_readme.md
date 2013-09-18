@@ -8,3 +8,6 @@ Visit [crtrdg.github.io](http://crtrdg.github.io) for more info.
 - [crtrdg-entity](http://github.com/sethvincent/crtrdg-entity)
 - [crtrdg-keyboard](http://github.com/sethvincent/crtrdg-keyboard)
 - [crtrdg-mouse](http://github.com/sethvincent/crtrdg-mouse)
+- [crtrdg-scene](http://github.com/sethvincent/crtrdg-scene)
+
+For an example player module check out [crtrdg-player](http://github.com/sethvincent/crtrdg-player)
