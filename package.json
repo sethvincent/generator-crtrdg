@@ -1,8 +1,9 @@
 {
   "name": "generator-crtrdg",
-  "version": "0.0.3",
-  "description": "A generator for Yeoman",
+  "version": "1.0.0",
+  "description": "A generator for crtrdg",
   "keywords": [
+    "crtrdg",
     "yeoman-generator"
   ],
   "homepage": "https://github.com/sethvincent/generator-crtrdg",
@@ -21,13 +22,12 @@
     "test": "mocha"
   },
   "dependencies": {
-    "yeoman-generator": "~0.13.0"
+    "html-wiring": "^1.2.0",
+    "underscore.string": "^3.2.2",
+    "yeoman-generator": "~0.22.2"
   },
   "devDependencies": {
     "mocha": "~1.10.0"
-  },
-  "engines": {
-    "node": ">=0.8.0"
   },
   "licenses": [
     {

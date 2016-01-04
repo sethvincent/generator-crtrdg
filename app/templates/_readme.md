@@ -1,7 +1,7 @@
 # <%= gameName %>
 > a game made with crtrdg.js
 
-Visit [crtrdg.github.io](http://crtrdg.github.io) for more info.
+Visit [crtrdg.com](http://crtrdg.com) for more info.
 
 ### Also check out each of the included crtrdg modules:
 - [crtrdg-gameloop](http://github.com/sethvincent/crtrdg-gameloop)

@@ -1,18 +1,17 @@
 {
-  "name": "<%= _.slugify(gameName) %>",
-  "version": "0.0.0",
+  "name": "<%= slugName %>",
+  "version": "1.0.0",
   "scripts": {
-    "start": "beefy game.js:bundle.js --live"
+    "start": "budo game.js:bundle.js --live"
   },
   "dependencies": {
-    "crtrdg-gameloop": "~0.0.1",
-    "crtrdg-entity": "~0.0.2",
-    "crtrdg-keyboard": "~0.0.2",
-    "crtrdg-mouse": "~0.0.1",
-    "inherits": "~2.0.0"
+    "crtrdg-gameloop": "~1.0.3",
+    "crtrdg-entity": "~1.0.0",
+    "crtrdg-keyboard": "~1.0.1",
+    "crtrdg-mouse": "~1.0.0"
   },
   "devDependencies": {
-    "beefy": "~0.4.0",
-    "browserify": "~2.25.0"
+    "budo": "~7.1.0",
+    "browserify": "~12.0.1"
   }
 }
